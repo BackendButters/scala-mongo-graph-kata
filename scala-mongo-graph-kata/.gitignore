@@ -7,7 +7,7 @@ target
 /.settings
 /RUNNING_PID
 */target/*
-
+**/target/*
 # Created by https://www.gitignore.io/api/java,scala,java-web,intellij+all,playframework
 
 ### Intellij+all ###
